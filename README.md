@@ -4,7 +4,6 @@
 [![Open to Hack & Collaborate](https://img.shields.io/badge/Open_for-Emulators_·_Games_·_Hardware-FF5722?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/neoruisan-dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-neoruisan--dev.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://neoruisan-dev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael_Ruiz_Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neos-rafael-ruiz-sanchez)
-[![Email](https://img.shields.io/badge/Email-neoruisan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ---
 
